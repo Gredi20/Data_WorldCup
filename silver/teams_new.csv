@@ -1,0 +1,89 @@
+,team_id,team_name,mens_team,womens_team,region_name
+0,T-01,"Algeria, DZA",1,0,Africa
+1,T-02,"Angola, AGO",1,0,Africa
+2,T-03,"Argentina, ARG",1,1,South America
+3,T-04,"Australia, AUS",1,1,Oceania
+4,T-05,"Austria, AUT",1,0,Europe
+5,T-06,"Belgium, BEL",1,0,Europe
+6,T-07,"Bolivia, BOL",1,0,South America
+7,T-08,"Bosnia and Herzegovina, BIH",1,0,Europe
+8,T-09,"Brazil, BRA",1,1,South America
+9,T-10,"Bulgaria, BGR",1,0,Europe
+10,T-11,"Cameroon, CMR",1,1,Africa
+11,T-12,"Canada, CAN",1,1,North America
+12,T-13,"Chile, CHL",1,1,South America
+13,T-14,"China, CHN",1,1,East Asia
+14,T-15,"Chinese Taipei, TWN",0,1,East Asia
+15,T-16,"Colombia, COL",1,1,South America
+16,T-17,"Costa Rica, CRI",1,1,Central America
+17,T-18,"Croatia, HRV",1,0,Europe
+18,T-19,"Cuba, CUB",1,0,Caribbean
+19,T-20,"Czech Republic, CZE",1,0,Europe
+20,T-21,"Czechoslovakia, CSK",1,0,Europe
+21,T-22,"Denmark, DNK",1,1,Europe
+22,T-23,"Dutch East Indies, IDN",1,0,South East Asia
+23,T-24,"East Germany, DDR",1,0,Europe
+24,T-25,"Ecuador, ECU",1,1,South America
+25,T-26,"Egypt, EGY",1,0,Africa
+26,T-27,"El Salvador, SLV",1,0,Central America
+27,T-28,"England, ENG",1,1,Europe
+28,T-29,"Equatorial Guinea, GNQ",0,1,Africa
+29,T-30,"France, FRA",1,1,Europe
+30,T-31,"Germany, DEU",1,1,Europe
+31,T-32,"Ghana, GHA",1,1,Africa
+32,T-33,"Greece, GRC",1,0,Europe
+33,T-34,"Haiti, HTI",1,0,Caribbean
+34,T-35,"Honduras, HND",1,0,Central America
+35,T-36,"Hungary, HUN",1,0,Europe
+36,T-37,"Iceland, ISL",1,0,Europe
+37,T-38,"Iran, IRN",1,0,Middle East
+38,T-39,"Iraq, IRQ",1,0,Middle East
+39,T-40,"Israel, ISR",1,0,Middle East
+40,T-41,"Italy, ITA",1,1,Europe
+41,T-42,"Ivory Coast, CIV",1,1,Africa
+42,T-43,"Jamaica, JAM",1,1,Caribbean
+43,T-44,"Japan, JPN",1,1,East Asia
+44,T-45,"Kuwait, KWT",1,0,Middle East
+45,T-46,"Mexico, MEX",1,1,North America
+46,T-47,"Morocco, MAR",1,0,Africa
+47,T-48,"Netherlands, NLD",1,1,Europe
+48,T-49,"New Zealand, NZL",1,1,Oceania
+49,T-50,"Nigeria, NGA",1,1,Africa
+50,T-51,"North Korea, PRK",1,1,East Asia
+51,T-52,"Northern Ireland, NIR",1,0,Europe
+52,T-53,"Norway, NOR",1,1,Europe
+53,T-54,"Panama, PAN",1,0,Central America
+54,T-55,"Paraguay, PRY",1,0,South America
+55,T-56,"Peru, PER",1,0,South America
+56,T-57,"Poland, POL",1,0,Europe
+57,T-58,"Portugal, PRT",1,0,Europe
+58,T-59,"Qatar, QAT",1,0,Middle East
+59,T-60,"Republic of Ireland, IRL",1,0,Europe
+60,T-61,"Romania, ROU",1,0,Europe
+61,T-62,"Russia, RUS",1,1,"Europe, Asia"
+62,T-63,"Saudi Arabia, SAU",1,0,Middle East
+63,T-64,"Scotland, SCO",1,1,Europe
+64,T-65,"Senegal, SEN",1,0,Africa
+65,T-66,"Serbia, SRB",1,0,Europe
+66,T-67,"Serbia and Montenegro, SCG",1,0,Europe
+67,T-68,"Slovakia, SVK",1,0,Europe
+68,T-69,"Slovenia, SVN",1,0,Europe
+69,T-70,"South Africa, ZAF",1,1,Africa
+70,T-71,"South Korea, KOR",1,1,East Asia
+71,T-72,"Soviet Union, SUN",1,0,"Europe, Asia"
+72,T-73,"Spain, ESP",1,1,Europe
+73,T-74,"Sweden, SWE",1,1,Europe
+74,T-75,"Switzerland, CHE",1,1,Europe
+75,T-76,"Thailand, THA",0,1,South East Asia
+76,T-77,"Togo, TGO",1,0,Africa
+77,T-78,"Trinidad and Tobago, TTO",1,0,Caribbean
+78,T-79,"Tunisia, TUN",1,0,Africa
+79,T-80,"Turkey, TUR",1,0,"Europe, Asia"
+80,T-81,"Ukraine, UKR",1,0,Europe
+81,T-82,"United Arab Emirates, ARE",1,0,Middle East
+82,T-83,"United States, USA",1,1,North America
+83,T-84,"Uruguay, URY",1,0,South America
+84,T-85,"Wales, WAL",1,0,Europe
+85,T-86,"West Germany, DEU",1,0,Europe
+86,T-87,"Yugoslavia, YUG",1,0,Europe
+87,T-88,"Zaire, COD",1,0,Africa
